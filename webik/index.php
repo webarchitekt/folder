@@ -84,7 +84,7 @@ $result='<div class="alert alert-danger"> Niečo ste zadali nesprávne! Prosím,
 
     <meta name="google-site-verification" content="Bbdgdng1gvazVRhkMwq9xzuONjKtLZuVd_9z2nk4qSI" />
     <meta charset="UTF-8">
-    <title>Fenomenalne všetko je</title>
+    <title>Fenomenalne všetko je čo chcem aby bolo</title>
     <meta name="description" content="Zákazníci Vám opäť nezaplatili Vaše faktúry? Najmä pre spoločnosti s ročným obratom do 5 miliónov eur sa to môže rýchlo stať existenčnou hrozbou. Riešením je SIMPLICITY.">
     <link rel="icon" type="image/x-icon" href="assets/eh-favicon.png"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
